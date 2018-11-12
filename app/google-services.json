@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "462041653015",
+    "firebase_url": "https://login-139c4.firebaseio.com",
+    "project_id": "login-139c4",
+    "storage_bucket": "login-139c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462041653015:android:1d302ef6dbf6c1ca",
+        "android_client_info": {
+          "package_name": "erthru.com.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462041653015-00frq3iffrq8j4744j82fdnfl55agq4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "erthru.com.googlelogin",
+            "certificate_hash": "1429177770c454e8093fc28a6fa8236e7cadfa0a"
+          }
+        },
+        {
+          "client_id": "462041653015-lmmtfv1j65lc86m5vobdci8u7s3dh74s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP8yeV47ziMe4sdnZpH_LOqK1YXve4J_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462041653015-lmmtfv1j65lc86m5vobdci8u7s3dh74s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
